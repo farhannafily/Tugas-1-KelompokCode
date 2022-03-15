@@ -7,5 +7,5 @@ This program is made by
 2. Eri Kusumawati
 3. Intan Yuefa
 4. Puji Aritti Hanifah
-5. Almas Satria Simantara
+5. Almas Satria Bimantara
 6. Mohammad Rifki Ferdiansyah
