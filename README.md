@@ -6,6 +6,6 @@ This program is made by
 1. Farhan Nafily
 2. Eri Kusumawati
 3. Intan Yuefa
-4. Puji Aritti Hanifah
+4. Puji Arifti Hanifah
 5. Almas Satria Bimantara
 6. Mohammad Rifki Ferdiansyah
